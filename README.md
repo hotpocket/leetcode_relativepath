@@ -2,9 +2,9 @@
 For loops and if conditions
 
 
-[ ] What are all of the words containing UU?
+1. What are all of the words containing UU?
 
-[ ] What are all of the words containing an X and a Y and a Z?
+2. What are all of the words containing an X and a Y and a Z?
 
 [ ] What are all of the words containing a Q but not a U?
 
