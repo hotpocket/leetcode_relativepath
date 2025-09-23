@@ -8,11 +8,11 @@ For loops and if conditions
 
 3.  What are all of the words containing a Q but not a U?
 
-[ ] What are all of the words that contain the word CAT and are exactly 5 letters long?
+4.  What are all of the words that contain the word CAT and are exactly 5 letters long?
 
-[ ] What are all of the words that have no E or A and are at least 15 letters long?
+5. What are all of the words that have no E or A and are at least 15 letters long?
 
-[ ] What are all of the words that have a B and an X and are less than 5 letters long?
+6. What are all of the words that have a B and an X and are less than 5 letters long?
 
 [ ] What are all of the words that both start and end with a Y?
 
