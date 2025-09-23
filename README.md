@@ -6,7 +6,7 @@ For loops and if conditions
 
 2. What are all of the words containing an X and a Y and a Z?
 
-[ ] What are all of the words containing a Q but not a U?
+3.  What are all of the words containing a Q but not a U?
 
 [ ] What are all of the words that contain the word CAT and are exactly 5 letters long?
 
