@@ -14,7 +14,7 @@ For loops and if conditions
 
 6. What are all of the words that have a B and an X and are less than 5 letters long?
 
-[ ] What are all of the words that both start and end with a Y?
+7. What are all of the words that both start and end with a Y?
 
 [ ] What are all of the words with no vowel and not even a Y?
 
