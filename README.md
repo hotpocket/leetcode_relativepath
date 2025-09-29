@@ -1,7 +1,6 @@
 # Wordplay
 For loops and if conditions
 
-
 1. What are all of the words containing UU?
 
 2. What are all of the words containing an X and a Y and a Z?
@@ -16,11 +15,11 @@ For loops and if conditions
 
 7. What are all of the words that both start and end with a Y?
 
-[ ] What are all of the words with no vowel and not even a Y?
+8. What are all of the words with no vowel and not even a Y?
 
-[ ] What are all of the words that have all 5 vowels, in any order?
+9. What are all of the words that have all 5 vowels, in any order?
 
-[ ] What are all of the words that have all 5 vowels, in alphabetical order?
+10. What are all of the words that have all 5 vowels, in alphabetical order?
 
 Setting up storage to use during a for loop, including counters and arrays
 
